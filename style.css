@@ -1,0 +1,10 @@
+body {
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  color: white;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+h1 {
+  font-size: 3rem;
+}
